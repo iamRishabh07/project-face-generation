@@ -22,3 +22,10 @@ It generates new human faces.
 * Create a deeper model and use it to generate larger (say 128x128) images of faces.
 * Read existing literature to see if you can use padding and normalization techniques to generate higher-resolution images.
 * Implement a learning rate that evolves over time.
+
+## Authors
+
+* Rishabh Srivastava
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
